@@ -12,7 +12,7 @@
 ## Description écrite de la proposition 
 "Escapism" est un jeu de réalité virtuelle immersif qui invite les joueurs à explorer un environnement futuriste, perdu, et dépourvu de couleurs vives. Le décor s'inscrit dans un univers monochrome, soulignant ainsi le contraste avec le monde réel. L'objectif du jeu est de collecter des morceaux de parchemin dispersés dans cet univers vaste. Une fois tous les parchemins collectés, le message du manifeste d'Escapism apparaîtra pour sensibiliser les joueurs à profiter de la vie réelle et à réduire leur dépendance aux smartphones. Cette esthétique unique et l'ambiance du jeu visent à encourager le joueur à explorer et à redécouvrir le monde réel.
 ## Moodboard visuel 
-![space.avif](assets/space.avif)
+![space.avif](assets/img/image-bizarre.jpeg)
 ![nebula.avif](assets/nebula.avif)
 ![object-1.jpg](assets/object-1.jpg)
 ![object-2.jpg](assets/object-2.jpg)
