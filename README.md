@@ -21,9 +21,9 @@
 - [syth](https://youtu.be/6JeZR13dLLI)
 - [cyberpunk](https://youtu.be/4FhsjQ2xess)
 ## Carte de votre environnement virtuel 
-![map.png](assets/map.png)
+![map.png](assets/plan1.png)
 ## Schéma de programmation et interactivité
-![schema.png](assets/schema.png)
+![schema.png](assets/detail.png)
 
 
 ## Équipe
