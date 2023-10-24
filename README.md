@@ -18,8 +18,8 @@
 ![space](assets/img/image-space.jpeg)
 ![arbre](assets/img/image-arbre.jpeg)
 ## Moodboard sonore
-- [space](https://www.youtube.com/watch?v=kXUnJ61KxRE)
-- [jupiter](https://www.youtube.com/watch?v=UChzxK9gknM)
+- [syth](https://youtu.be/6JeZR13dLLI)
+- [cyberpunk](https://youtu.be/4FhsjQ2xess)
 ## Carte de votre environnement virtuel 
 ![map.png](assets/map.png)
 ## Schéma de programmation et interactivité
