@@ -23,7 +23,7 @@
 ## Carte de votre environnement virtuel 
 ![map.png](assets/img/plan1.png)
 ## Schéma de programmation et interactivité
-![schema.png](assets/img1detail.png)
+![schema.png](assets/img/detail.png)
 
 
 ## Équipe
